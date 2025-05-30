@@ -1,5 +1,5 @@
 # EventPro
-Our Unique SolutionAlgoSphere Key Features and Why It’s Different?
+Key Features and Why It’s Different?
 ●Connects users with offline/event- based freelance &amp; volunteer opportunities. 
 ●Open to both tech and non-tech skilled individuals. 
 ●Supports paid and unpaid gigs (flexible work options). 
